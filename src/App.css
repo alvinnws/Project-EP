@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.wholepage {
+  display: flex;
+  height: 100vh;
+}
+
+nav {
+  width: 230px;
+  background-color: black;
+  color: white;
+  
+}
+
+nav h1 {
+  padding: 8px;
+}
+
+nav hr {
+  width: 80%;
+}
+
+nav ul {
+  padding: 8px;
+}
